@@ -89,3 +89,6 @@ I also checked some articles that former students wrote to explain the reflexion
 [Yutong Deng](https://pure-forest.medium.com/push-swap-turk-algorithm-explained-in-6-steps-4c6650a458c0)  
 * About AI use:  
 AI was used as an educational tool. It was used to have a better understanding of the different sorting algorithms and of the push_swap project in general.
+
+<h3>Grade</h3>
+125/100
